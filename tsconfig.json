@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "amd",
+    "target": "ES3"
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules"
+  ]
+}
